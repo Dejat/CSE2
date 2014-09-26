@@ -8,5 +8,6 @@ public class FourDigits {
         myScanner = new Scanner(System.in );
         System.out.print("Enter a double: ");
         double n = myScanner.nextInt();
+        
    }
 }
