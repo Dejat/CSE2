@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class NumberStack {
     public static void main(String[] args){
         Scanner myScanner;
-        myScanner=new Scanner(System.in);
+        myScanner=new Scanner(System.in );
         System.out.print("Enter a number between 1 and 9: ");
         int num = myScanner.nextInt();
         //i = 0;
